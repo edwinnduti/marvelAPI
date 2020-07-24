@@ -15,4 +15,4 @@ and many more from the API easily.
 
 #### This code only accesses comics at the moment.
 
-## UPDATED VERSION to released soon.
+## UPDATED VERSION to be released soon.
