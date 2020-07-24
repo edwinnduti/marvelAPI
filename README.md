@@ -1,4 +1,4 @@
-# marvel-API
+# ![alt text](https://logos-download.com/wp-content/uploads/2018/07/Marvel_logo_red.png "Marvel")marvel-API
 
 ## Requirements
 Go to [Marvel developer portal](https://developer.marvel.com) and create a developer account.You will be given a Public key and a Private key.
