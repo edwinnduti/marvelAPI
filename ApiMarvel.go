@@ -20,8 +20,8 @@ import(
 //credentials
 var (
 	URI = "https://gateway.marvel.com/v1/public/"
-	PUBLIC_KEY="a3c8827aa0350dce00ef650661e225cc"
-	PRIVATE_KEY="91e76ebd17a6af61726a598b1496531e006d82dc"
+	PUBLIC_KEY=""
+	PRIVATE_KEY=""
 	TIMESTAMP = "1"
 	COMICS = "comics"
 )
